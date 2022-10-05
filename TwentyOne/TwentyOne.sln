@@ -1,0 +1,35 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{C443F1BA-A1A6-4145-9447-649D766292AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{FF314F70-6B7E-4E02-9158-B73295802366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+
+        Debug | Any CPU = Debug | Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+
+        { C443F1BA - A1A6 - 4145 - 9447 - 649D766292AA}.Debug | Any CPU.ActiveCfg = Debug | Any CPU
+{ C443F1BA - A1A6 - 4145 - 9447 - 649D766292AA}.Debug | Any CPU.Build.0 = Debug | Any CPU
+{ C443F1BA - A1A6 - 4145 - 9447 - 649D766292AA}.Release | Any CPU.ActiveCfg = Release | Any CPU
+{ C443F1BA - A1A6 - 4145 - 9447 - 649D766292AA}.Release | Any CPU.Build.0 = Release | Any CPU
+{ FF314F70 - 6B7E - 4E02 - 9158 - B73295802366}.Debug | Any CPU.ActiveCfg = Debug | Any CPU
+{ FF314F70 - 6B7E - 4E02 - 9158 - B73295802366}.Debug | Any CPU.Build.0 = Debug | Any CPU
+{ FF314F70 - 6B7E - 4E02 - 9158 - B73295802366}.Release | Any CPU.ActiveCfg = Release | Any CPU
+{ FF314F70 - 6B7E - 4E02 - 9158 - B73295802366}.Release | Any CPU.Build.0 = Release | Any CPU
+EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+
+        HideSolutionNode = FALSE
+
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+
+        SolutionGuid = { 1E1FEF00 - FEDC - 4EFE - B823 - 5DF2AD3C93B5}
+EndGlobalSection
+EndGlobal

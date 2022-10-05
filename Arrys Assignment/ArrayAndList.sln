@@ -1,0 +1,31 @@
+﻿using System.Diagnostics;
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAndListExercise", "ArrayAndListExercise\ArrayAndListExercise.csproj", "{7C33ABFB-89B8-44CE-830B-F6EBDFB1DB2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+
+        Debug | Any CPU = Debug | Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+
+        { 7C33ABFB - 89B8 - 44CE - 830B - F6EBDFB1DB2B}.Debug | Any CPU.ActiveCfg = Debug | Any CPU
+{ 7C33ABFB - 89B8 - 44CE - 830B - F6EBDFB1DB2B}.Debug | Any CPU.Build.0 = Debug | Any CPU
+{ 7C33ABFB - 89B8 - 44CE - 830B - F6EBDFB1DB2B}.Release | Any CPU.ActiveCfg = Release | Any CPU
+{ 7C33ABFB - 89B8 - 44CE - 830B - F6EBDFB1DB2B}.Release | Any CPU.Build.0 = Release | Any CPU
+EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+
+        HideSolutionNode = FALSE
+
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+
+        SolutionGuid = { 49EEEEE3 - 7821 - 4B0F - 9696 - 2D9AE76CA125}
+EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿@using CodeFirstApp.Models
+@model List<Instructor>
+
+@{ 
+    ViewBag.Title = "Instructor";
+}
+
+<h2>Instructors</h2>
+
+<h5>Details for Instuctors:</h5>
+
+<@{ 
+    foreach(Instructor instructor in Model)
+    {
+        <h4>@instructor.FirstName @instructor.LastName</h4>
+    }
+}

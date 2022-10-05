@@ -1,0 +1,31 @@
+﻿using System.Diagnostics;
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BA22F7BD-CF1F-405D-8566-E9B2903F0A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+
+        Debug | Any CPU = Debug | Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+
+        { BA22F7BD - CF1F - 405D - 8566 - E9B2903F0A4E}.Debug | Any CPU.ActiveCfg = Debug | Any CPU
+{ BA22F7BD - CF1F - 405D - 8566 - E9B2903F0A4E}.Debug | Any CPU.Build.0 = Debug | Any CPU
+{ BA22F7BD - CF1F - 405D - 8566 - E9B2903F0A4E}.Release | Any CPU.ActiveCfg = Release | Any CPU
+{ BA22F7BD - CF1F - 405D - 8566 - E9B2903F0A4E}.Release | Any CPU.Build.0 = Release | Any CPU
+EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+
+        HideSolutionNode = FALSE
+
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+
+        SolutionGuid = { 8EFA93C7 - EC91 - 4A49 - B0FF - C278432BCE5B}
+EndGlobalSection
+EndGlobal

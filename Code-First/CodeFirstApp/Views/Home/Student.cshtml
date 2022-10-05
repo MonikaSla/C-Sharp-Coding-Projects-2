@@ -1,0 +1,17 @@
+﻿@using CodeFirstApp.Models
+@model List<Student>
+
+@{
+    ViewBag.Title = "Student";
+}
+
+<h2>Students</h2>
+
+<h5>Current enrolled students:</h5>
+
+<@{ 
+    foreach(Student student in Model)
+    {
+        <h4>@student.FirstName @student.LastName</h4>
+    }
+}

@@ -2,9 +2,9 @@
   These are some small projects I made using C# and .NET Framework.
   
 # Projects:
-#Twenty One
-#Car Insurance
-#Newsletter
+Twenty One
+Car Insurance
+Newsletter
 
 # Twenty One
 This is a basic console app utilizng .NET Framework to create a Twenty One card game. It includes methods to generate a dealer, deck, and shuffled cards. Logic is used to create the basic rules of Twenty One.
